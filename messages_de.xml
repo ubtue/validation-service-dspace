@@ -1,0 +1,8 @@
+<!-- Addition Submission Validaation Step -->
+<message key="xmlui.Submission.submit.ValidationStep.heading">Validierung</message>
+<message key="xmlui.Submission.submit.ValidationStep.introduction">Ihre hochgeladenen Dateien werden jetzt validiert. Klicken Sie auf 'Veröffentlichung abschließen' und warten Sie bis der Prozess abgeschlossen ist...</message>
+<message key="xmlui.Submission.submit.ValidationStep.system.error">Ein Systemfehler ist aufgetreten. Bitte versuchen sie es nocheinmal oder wenden Sie sich an den Systembetreuer</message>
+<message key="xmlui.Submission.submit.ValidationStep.problems.identified.fixable">Wir haben ein Problem bei den von Ihnen übermittelten Dokumenten entdeckt. Folgende Fehler müssen von Ihnen selbst behoben werden:</message>
+<message key="xmlui.Submission.submit.ValidationStep.problems.identified.unfixable">Die nachfolgenden Dateien konnten nicht automatisch validiert werden. Bitte wenden Sie sich an den Systembetreuer um das Problem zu beheben.</message>
+<message key="xmlui.Submission.submit.ValidationStep.problems.staff.required.heading">Kontaktieren Sie den Systembetreuer</message>
+<!-- Addition end-->

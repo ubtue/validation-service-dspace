@@ -1,0 +1,10 @@
+<!-- Submission Validation Step -->
+<message key="xmlui.Submission.submit.ValidationStep.heading">Validation</message>
+<message key="xmlui.Submission.submit.ValidationStep.introduction">The files you uploaded will now be validated. File formats and names will be analyzed.Please click on complete submission and wait until validation has finished ...</message>
+<message key="xmlui.Submission.submit.ValidationStep.system.error">A system error occured. Please try again or contact system staff</message>
+<message key="xmlui.Submission.submit.ValidationStep.problems.identified.fixable">We have identified some problems while validating your uploaded files. Please fix the following problems:</message>
+<message key="xmlui.Submission.submit.ValidationStep.problems.identified.unfixable">The following files failed validation. Please contact system staff to resolve this issue</message>
+<message key="xmlui.Submission.submit.ValidationStep.problems.staff.required.heading">Staff assistance required</message>
+
+
+

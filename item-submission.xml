@@ -1,0 +1,10 @@
+
+<!-- Step 8 will be the validation of the uploaded material -->
+<step>
+  <heading>submit.ValidationStep.heading</heading>
+  <processing-class>de.uni_tuebingen.dspace.validation.ValidationProcessingStep</processing-class>
+  <xmlui-binding>de.uni_tuebingen.dspace.validation.ValidationXmlUiStep</xmlui-binding>
+  <workflow-editable>false</workflow-editable>
+</step>
+
+     
