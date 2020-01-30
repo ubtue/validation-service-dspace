@@ -1,5 +1,5 @@
 # validation-service-dspace
-Add-on mit dem der Validierungsdienst in DSpace Version 6 integriert werden kann.
+Add-on mit dem der Validierungsdienst in DSpace Version 6 mit XMLUI integriert werden kann.
 
 
 ## Installation des Submission Steps in Dspace
